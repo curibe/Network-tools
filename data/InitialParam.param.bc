@@ -1,0 +1,9 @@
+%****************************************
+% PARAMETERS FILE
+%****************************************
+
+%Number of Nodes 
+Nn      =      10
+
+%Number od conections
+NC      =      32
